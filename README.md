@@ -72,4 +72,3 @@ yarn start
 
 Elio de Pinho Rocha Neto
 
-https://www.linkedin.com/in/elio-rocha-dev/
