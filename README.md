@@ -3,15 +3,16 @@
 # Sobre o projeto
 
 DSList é um projeto Back end que consiste em um ambiente onde o usuário pode cadastrar um catálogo de jogos baseado em suas características, como RPG, aventura, esportes dentre outros. 
-Neste projeto foi utilizado:
 
-# Tecnologias utilizadas:
+# Tecnologias e ferramentas utilizadas:
 
 ## Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Postman
+- Docker Compose
 
 # Conceitos Aplicados:
 
@@ -29,6 +30,13 @@ Neste projeto foi utilizado:
 - Classe de associação, embedded id;
 - Consultas SQL no Spring Data JPA;
 - Projections;
+- Perfis de projeto;
+- Ambiente local com Docker Compose;
+- Processo de homologação local;
+- Processo de deploy com CI/CD;
+- Configuração de CORS;
+- Design e implementação de endpoint;
+- Verbo HTTP e idempotência.
 
 ## Modelo conceitual
 
